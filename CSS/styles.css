@@ -289,7 +289,7 @@ ul.main_menu_list {
   }
   .carbon {
     height: 300px;
-    background: url(/Microsoft-WebPage-Clone/Images/carbon.jpg) center/cover
+    background: url(/Microsoft-WebPage-Clone/Images/carbon.jpg); center/cover
       no-repeat;
   }
   .links .links_inner {
