@@ -87,7 +87,7 @@ ul.main_menu_list {
 .showcase {
   width: 100%;
   height: 400px;
-  background: url(/Project6-Microsoft-Clone/Images/showcase.png) center/cover
+  background: url(/Microsoft-WebPage-Clone/Images/showcase.png) center/cover
     no-repeat;
   display: flex;
   flex-direction: column;
@@ -137,7 +137,7 @@ ul.main_menu_list {
 .xbox {
   height: 350px;
   width: 100%;
-  background: url(/Project6-Microsoft-Clone/Images/xbox.png) center/cover
+  background: url(/Microsoft-WebPage-Clone/Images/xbox.png) center/cover
     no-repeat;
 }
 .xbox .content {
@@ -158,7 +158,7 @@ ul.main_menu_list {
 .carbon {
   height: 350px;
   width: 100%;
-  background: url(/Project6-Microsoft-Clone/Images/carbon.jpg) center/cover
+  background: url(/Microsoft-WebPage-Clone/Images/carbon.jpg) center/cover
     fixed no-repeat;
 }
 .carbon .content {
@@ -288,7 +288,7 @@ ul.main_menu_list {
   }
   .carbon {
     height: 300px;
-    background: url(/Project6-Microsoft-Clone/Images/carbon.jpg) center/cover
+    background: url(/Microsoft-WebPage-Clone/Images/carbon.jpg) center/cover
       no-repeat;
   }
   .links .links_inner {
