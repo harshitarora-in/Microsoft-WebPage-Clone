@@ -137,7 +137,7 @@ ul.main_menu_list {
 .xbox {
   height: 350px;
   width: 100%;
-  background: url(/Microsoft-WebPage-Clone/Images/xbox.png) center/cover
+  background: url(/Microsoft-WebPage-Clone/Images/xbox.png); center/cover
     no-repeat;
 }
 .xbox .content {
