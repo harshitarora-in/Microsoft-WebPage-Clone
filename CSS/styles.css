@@ -87,8 +87,7 @@ ul.main_menu_list {
 .showcase {
   width: 100%;
   height: 400px;
-  background: url(/Microsoft-WebPage-Clone/Images/showcase.png) center/cover
-    no-repeat;
+  background: url(/Microsoft-WebPage-Clone/Images/showcase.png) no-repeat fixed center;
   display: flex;
   flex-direction: column;
   align-items: center;
